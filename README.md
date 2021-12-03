@@ -1,3 +1,4 @@
+![alt text](https://github.com/gautamgoku/Cook/blob/master/imgs/Capture3.PNG?raw=true)
 # Cook
 
 The one activity common to all households in the world, no matter what age, section of society, gender, creed or nationality is cooking. In the world of food, people put aside their differences and gather to enjoy a meal. In today’s scenario, we see food on delivery websites, on people’s instagram/facebook feeds, and on websites where professionals post their recipes.
